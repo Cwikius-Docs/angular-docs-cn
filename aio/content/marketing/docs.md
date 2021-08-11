@@ -1,6 +1,6 @@
-<h1 class="no-toc">Introduction to the Angular Docs</h1>
+<h1 class="no-toc">Angular 文档简介</h1>
 
-Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps.
+Angular 是一个应用设计框架与开发平台，用于创建高效、复杂、精致的单页面应用。
 
 These Angular docs help you learn and use the Angular framework and development platform, from your first application to optimizing complex single-page apps for enterprises.
 Tutorials and guides include downloadable examples to accelerate your projects.
