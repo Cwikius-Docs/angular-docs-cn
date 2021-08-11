@@ -1,7 +1,6 @@
 {
   // Docs on Firebase hosting configuration: https://firebase.google.com/docs/hosting/full-config
   "hosting": {
-    "target": "aio",
     "public": "dist",
     "cleanUrls": true,
     //////////////////////////////////////////////////////////////////////////////////////////////
