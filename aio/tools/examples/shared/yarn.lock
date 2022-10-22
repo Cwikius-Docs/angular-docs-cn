@@ -266,10 +266,10 @@
   dependencies:
     tslib "^2.2.0"
 
-"@angular/upgrade@~12.1.0-":
-  version "12.1.3"
-  resolved "https://registry.yarnpkg.com/@angular/upgrade/-/upgrade-12.1.3.tgz#e3b14644fb199e87f93316a3ffe9bc0162151a9b"
-  integrity sha512-+KrclWAPqanb2JWZ3i6T2CAlthuhqIavS+GT83ULtFY64UOLyQ4D/3CTqAlUrElfboOZvXmUeJuyDfm1POMhpA==
+"@angular/upgrade@~12.2.16":
+  version "12.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/upgrade/-/upgrade-12.2.16.tgz#e8098a3b8ae42539fdbc37d0c53a8365d7baa56d"
+  integrity sha512-6EbkbmlrPbjXS+08w3f0YCa0D8FWHgQc985iUXlzykCg53sGBS/qXaREV0DFlf5oRoZxB/seLN//T2GAnwbPMA==
   dependencies:
     tslib "^2.2.0"
 
